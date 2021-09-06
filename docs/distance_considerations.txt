@@ -16,3 +16,4 @@ DESCRIPCION:
 1. La medida front-main hace referencia a la distancia a la que debe ser ubicado el marco frontal en el tornillo desde el marco principal.
 2. La medida back-main hace referencia a la distancia a la que debe ser ubicado el marco trasero en el tornillo desde el marco principal.
 3. La medida PTFEtubelength hace referencia a la longitud del tubo PTFE en el extrusor.
+.
