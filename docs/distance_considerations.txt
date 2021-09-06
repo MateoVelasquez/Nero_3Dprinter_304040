@@ -1,0 +1,18 @@
+MEDIDAS A CONSIDERAR
+
+Este documento contiene medidas que es necesario tener en cuenta al momento del armado de la maquina.
+
+REVISION:
+Fecha de revision 5-sep-2021, Mateo Velásquez
+
+
+
+1. Front-Main --> 223mm
+2. Back-Main ---> 126mm
+3. PTFEtubelength --> 91.5mm
+
+
+DESCRIPCION:
+1. La medida front-main hace referencia a la distancia a la que debe ser ubicado el marco frontal en el tornillo desde el marco principal.
+2. La medida back-main hace referencia a la distancia a la que debe ser ubicado el marco trasero en el tornillo desde el marco principal.
+3. La medida PTFEtubelength hace referencia a la longitud del tubo PTFE en el extrusor.
